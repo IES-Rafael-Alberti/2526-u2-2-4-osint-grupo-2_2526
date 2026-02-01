@@ -1,0 +1,255 @@
+crt.sh ID,Logged At,Not Before,Not After,Common Name,Matching Identities,Issuer Name
+8713468704,2023-02-22,2023-02-22,2023-05-23,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+8786147272,2023-02-22,2023-02-22,2023-05-23,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+8954519524,2023-03-22,2023-03-22,2024-04-22,"hospitalespascual.com","autodiscover.hospitalespascual.com
+hospitalespascual.com
+mail.hospitalespascual.com","C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 DV TLS CA 2020"
+8956602326,2023-03-22,2023-03-22,2024-04-22,"correo.hospitalespascual.com","autodiscover.hospitalespascual.com
+correo.hospitalespascual.com
+mail.hospitalespascual.com","C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 DV TLS CA 2020"
+9222960519,2023-04-24,2023-04-24,2023-07-23,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+9238915266,2023-04-24,2023-04-24,2023-07-23,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+9294734736,2023-05-03,2023-05-03,2023-08-01,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+9302411679,2023-05-03,2023-05-03,2023-08-01,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+9315225074,2023-05-05,2023-05-05,2023-08-03,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+9318707650,2023-05-05,2023-05-05,2023-08-03,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+9337423302,2023-05-08,2023-05-08,2023-08-06,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+9344032759,2023-05-08,2023-05-08,2023-08-06,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+9735408904,2023-06-24,2023-06-24,2023-09-22,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+9755828435,2023-06-24,2023-06-24,2023-09-22,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+9848698299,2023-07-07,2023-07-07,2023-10-05,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+9872760159,2023-07-07,2023-07-07,2023-10-05,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+10271758182,2023-08-24,2023-08-24,2023-11-22,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+10396997781,2023-08-24,2023-08-24,2023-11-22,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+10373211073,2023-09-05,2023-09-05,2023-12-04,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+10300788065,2023-09-05,2023-09-05,2023-12-04,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+10887418578,2023-10-25,2023-10-24,2024-01-22,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+10887419935,2023-10-25,2023-10-24,2024-01-22,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+10991483935,2023-11-04,2023-11-04,2024-02-02,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+10991486595,2023-11-04,2023-11-04,2024-02-02,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+11539254344,2023-12-25,2023-12-25,2024-03-24,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+11581990747,2023-12-25,2023-12-25,2024-03-24,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+11583163325,2024-01-03,2024-01-03,2024-04-02,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+11631061158,2024-01-03,2024-01-03,2024-04-02,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+12174449862,2024-02-24,2024-02-24,2024-05-24,"*.hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+12174453268,2024-02-24,2024-02-24,2024-05-24,"*.hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+12257248499,2024-03-03,2024-03-03,2024-06-01,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+12257255624,2024-03-03,2024-03-03,2024-06-01,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+12810226638,2024-04-22,2024-04-22,2025-05-24,"correo.hospitalespascual.com","autodiscover.hospitalespascual.com
+correo.hospitalespascual.com
+mail.hospitalespascual.com","C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 DV TLS CA 2020"
+12810232289,2024-04-22,2023-03-22,2024-04-22,"correo.hospitalespascual.com","autodiscover.hospitalespascual.com
+correo.hospitalespascual.com
+mail.hospitalespascual.com","C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 DV TLS CA 2020"
+12816393726,2024-04-22,2024-04-22,2025-05-24,"correo.hospitalespascual.com","autodiscover.hospitalespascual.com
+correo.hospitalespascual.com
+mail.hospitalespascual.com","C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 DV TLS CA 2020"
+12847856574,2024-04-25,2024-04-25,2024-07-24,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+12848788486,2024-04-25,2024-04-25,2024-07-24,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R3"
+12924902996,2024-05-02,2024-05-02,2024-07-31,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+12924906833,2024-05-02,2024-05-02,2024-07-31,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R3"
+13515549971,2024-06-25,2024-06-25,2024-09-23,"www.hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+13515557986,2024-06-25,2024-06-25,2024-09-23,"www.hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+13580660553,2024-07-01,2024-07-01,2024-09-29,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R10"
+13580488116,2024-07-01,2024-07-01,2024-09-29,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R10"
+14290174436,2024-08-25,2024-08-25,2024-11-23,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+14300461640,2024-08-25,2024-08-25,2024-11-23,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+14356653205,2024-08-30,2024-08-30,2024-11-28,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R10"
+14356658502,2024-08-30,2024-08-30,2024-11-28,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R10"
+15082136429,2024-10-25,2024-10-25,2025-01-23,"www.hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+15129258409,2024-10-25,2024-10-25,2025-01-23,"www.hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+15120758682,2024-10-29,2024-10-29,2025-01-27,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R10"
+15170434698,2024-10-29,2024-10-29,2025-01-27,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R10"
+15888319465,2024-12-26,2024-12-26,2025-03-26,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+16243542474,2024-12-26,2024-12-26,2025-03-26,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+15912549788,2024-12-28,2024-12-28,2025-03-28,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R11"
+16268202504,2024-12-28,2024-12-28,2025-03-28,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R11"
+16914178513,2025-02-25,2025-02-25,2025-05-26,"www.hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R10"
+17356008247,2025-02-25,2025-02-25,2025-05-26,"www.hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R10"
+16949978442,2025-02-26,2025-02-26,2025-05-27,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R11"
+17371074011,2025-02-26,2025-02-26,2025-05-27,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R11"
+18085225061,2025-04-27,2025-04-27,2025-07-26,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R11"
+18085234987,2025-04-27,2025-04-27,2025-07-26,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R11"
+18088802904,2025-04-27,2025-04-27,2025-07-26,"www.hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R10"
+18088796936,2025-04-27,2025-04-27,2025-07-26,"www.hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R10"
+18516853839,2025-05-20,2025-05-20,2026-06-21,"correo.hospitalespascual.com","autodiscover.hospitalespascual.com
+correo.hospitalespascual.com
+mail.hospitalespascual.com","C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R3 DV TLS CA 2020"
+19140680748,2025-06-20,2025-06-20,2026-06-20,"pruebasdiagnosticas.hospitalespascual.com","pruebasdiagnosticas.hospitalespascual.com
+www.pruebasdiagnosticas.hospitalespascual.com","C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36"
+19140681315,2025-06-20,2025-06-20,2026-06-20,"pruebasdiagnosticas.hospitalespascual.com","pruebasdiagnosticas.hospitalespascual.com
+www.pruebasdiagnosticas.hospitalespascual.com","C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36"
+19140794933,2025-06-20,2025-06-20,2026-06-20,"idoneaconnect.hospitalespascual.com","idoneaconnect.hospitalespascual.com
+www.idoneaconnect.hospitalespascual.com","C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36"
+19140794934,2025-06-20,2025-06-20,2026-06-20,"idoneaconnect.hospitalespascual.com","idoneaconnect.hospitalespascual.com
+www.idoneaconnect.hospitalespascual.com","C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36"
+19260982320,2025-06-26,2025-06-26,2025-09-24,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R10"
+19260983837,2025-06-26,2025-06-26,2025-09-24,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R10"
+19287340262,2025-06-27,2025-06-27,2025-09-25,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+19287341045,2025-06-27,2025-06-27,2025-09-25,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R11"
+20558903319,2025-08-25,2025-08-25,2025-11-23,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R13"
+20558913979,2025-08-25,2025-08-25,2025-11-23,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R13"
+20610280722,2025-08-27,2025-08-27,2025-11-25,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R13"
+20610281072,2025-08-27,2025-08-27,2025-11-25,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R13"
+21960359983,2025-10-24,2025-10-24,2026-01-22,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R12"
+21960359792,2025-10-24,2025-10-24,2026-01-22,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R12"
+22046275524,2025-10-27,2025-10-27,2026-01-25,"*.hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R13"
+22046296363,2025-10-27,2025-10-27,2026-01-25,"*.hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R13"
+23308771145,2025-12-23,2025-12-23,2026-03-23,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R13"
+23308783600,2025-12-23,2025-12-23,2026-03-23,"hospitalespascual.com","hospitalespascual.com
+www.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R13"
+23406072428,2025-12-27,2025-12-27,2026-03-27,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R13"
+23406071816,2025-12-27,2025-12-27,2026-03-27,"hospitalespascual.com.josemanuelpascualpascual.es","*.hospitalespascual.com
+hospitalespascual.com
+hospitalespascual.com.josemanuelpascualpascual.es
+www.hospitalespascual.com.josemanuelpascualpascual.es","C=US, O=Let's Encrypt, CN=R13"
+23917885550,2026-01-22,2026-01-22,2026-04-22,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com","C=US, O=Let's Encrypt, CN=R13"
+23917897745,2026-01-22,2026-01-22,2026-04-22,"hospitalespascual.com","*.hospitalespascual.com
+hospitalespascual.com","C=US, O=Let's Encrypt, CN=R13"
+23990074090,2026-01-26,2026-01-26,2026-04-26,"www.test.hospitalespascual.com","test.hospitalespascual.com
+www.test.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R12"
+23990101364,2026-01-26,2026-01-26,2026-04-26,"www.test.hospitalespascual.com","test.hospitalespascual.com
+www.test.hospitalespascual.com","C=US, O=Let's Encrypt, CN=R12"

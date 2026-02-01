@@ -1,0 +1,18 @@
+Hostname	Type	TTL	Priority	Content
+hospitalespascual.com	SOA	86400		dns1.sered.net alertas.sered.cloud 2026012603 3600 1800 1209600 86400
+hospitalespascual.com	A	0		185.37.231.176
+hospitalespascual.com	NS	0		dns1.sered.net
+hospitalespascual.com	NS	0		dns3.sered.net
+hospitalespascual.com	NS	0		dns4.sered.net
+hospitalespascual.com	NS	0		dns2.sered.net
+hospitalespascual.com	MX	0	30	mxbackup.interbel.es
+hospitalespascual.com	MX	0	10	correo.hospitalespascual.com
+www.hospitalespascual.com	A	0		185.37.231.176
+www.hospitalespascual.com	MX	0	30	mxbackup.interbel.es
+www.hospitalespascual.com	MX	0	10	correo.hospitalespascual.com
+www.hospitalespascual.com	SOA	86400		dns1.sered.net alertas.sered.cloud 2026012603 3600 1800 1209600 86400
+www.hospitalespascual.com	CNAME	0		hospitalespascual.com
+www.hospitalespascual.com	NS	0		dns1.sered.net
+www.hospitalespascual.com	NS	0		dns4.sered.net
+www.hospitalespascual.com	NS	0		dns2.sered.net
+www.hospitalespascual.com	NS	0		dns3.sered.net
