@@ -98,5 +98,3 @@
 - https://www.facebook.com/sanrafaelcadiz/
 - https://x.com/sanrafaelcadiz
 - https://www.linkedin.com/company/jose-manuel-pascual-p...
-
-> Nota: El contenido original estaba truncado al final. Si quieres que actualice el archivo original o que haga un commit, dímelo.
