@@ -1,3 +1,5 @@
+[Enlace al buscador de trabajadores](https://www.hospitalespascual.com/cuadro-medico/?hospital=hospital-san-rafael)
+
 |  Nº | Nombre                             | Cargo / Especialidad               | Servicio / Departamento            |
 | --: | ---------------------------------- | ---------------------------------- | ---------------------------------- |
 |   1 | Ignacio Ortiz Acero                | Director Médico                    | Dirección Médica                   |
