@@ -1,0 +1,19 @@
+Domain	Rank	Hosting Provider	Mail Provider
+whm.hospitalespascual.com		Xtudio Networks S.L.U.
+idoneaconnect.hospitalespascual.com		ES
+mail.hospitalespascual.com		Xtudio Networks S.L.U.
+cpcalendars.hospitalespascual.com		Xtudio Networks S.L.U.
+autodiscover.hospitalespascual.com		Xtudio Networks S.L.U.
+www.hospitalespascual.com		Xtudio Networks S.L.U.
+hospitalespascual.com		Xtudio Networks S.L.U.	
+smtp.hospitalespascual.com		Amazon.com, Inc.
+test.hospitalespascual.com		Xtudio Networks S.L.U.
+www.test.hospitalespascual.com		Xtudio Networks S.L.U.
+correo.hospitalespascual.com		Amazon.com, Inc.
+cpcontacts.hospitalespascual.com		Xtudio Networks S.L.U.
+pruebasdiagnosticas.hospitalespascual.com		Google LLC
+webdisk.hospitalespascual.com		Xtudio Networks S.L.U.
+autoconfig.hospitalespascual.com		Xtudio Networks S.L.U.
+ftp.hospitalespascual.com		Xtudio Networks S.L.U.
+webmail.hospitalespascual.com		Xtudio Networks S.L.U.
+cpanel.hospitalespascual.com		Xtudio Networks S.L.U.
