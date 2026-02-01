@@ -1,19 +1,19 @@
 # IS 2.d.02 (a) - Auditoría de Superficie de Exposición Post-Incidente (OSINT pasivo)
-<!-- AYUDA (BORRAR): Plantilla del informe. Rellenad los campos entre corchetes y eliminad todos los bloques "AYUDA (BORRAR)" antes de entregar. -->
 
-- Entidad objetivo: Clínica de San Rafael de Cádiz / Hospitales Pascual
-- Equipo/Grupo: [Nombre del grupo]
-<!-- AYUDA (BORRAR): Identificador del grupo/equipo. -->
-- Integrantes: [Nombre Apellido (Iniciales)], [..]
-<!-- AYUDA (BORRAR): Lista de integrantes (mismo orden que en la presentación). -->
-- Fecha(s) de investigación: [YYYY-MM-DD a YYYY-MM-DD]
-<!-- AYUDA (BORRAR): Rango de fechas reales en las que hicisteis las consultas OSINT. -->
+- Entidad objetivo: Clínica de San Rafael de Cádiz
+
+- Equipo/Grupo: Grupo 2
+
+- Integrantes: [Pablo González Silva], [Carlos Alcina Romero] y [Luis Carlos Romero Navarro]
+
+- Fecha(s) de investigación: [2026-01-26 a 2026-02-01]
+
 - Versión: 1.0
-<!-- AYUDA (BORRAR): Subid versión si hay revisiones (1.1, 1.2...). -->
+
 - Límite de entrega (a): máximo 6 folios (12 caras) en PDF (si aplica)
-<!-- AYUDA (BORRAR): Recordatorio del límite; podéis quitarlo si no os lo piden. -->
 
 ## 1. Resumen ejecutivo
+
 <!-- AYUDA (BORRAR): 8-15 líneas. Debe entenderse sin leer el resto: qué se investigó, hallazgos top y acciones prioritarias. -->
 
 **Objetivo.** Determinar qué información pública existía (antes del incidente supuesto) que podría haber facilitado la fase de reconocimiento de un atacante: identidades digitales, contactos, dominios/subdominios, huella documental (metadatos), menciones públicas y exposiciones derivadas.
@@ -29,34 +29,40 @@
 - **Alto** por exposición significativa de identidades digitales, patrones de contacto y antecedentes de brecha que facilitan ataques dirigidos de phishing e ingeniería social.
 
 **Recomendaciones prioritarias (3-5 bullets).**
-- Auditoría urgente de exposición WordPress: aplicar parches, deshabilitar enumeración de usuarios, validar plugins desactualizados (P1).
-- Limpieza de información personal en canales públicos (LinkedIn, sitio web): reducir datos de contacto directo de empleados (P1).
-- Implementar Autenticación Multifactor (MFA) en cuentas corporativas y sistemas críticos (P1).
-- Revisar y rotar credenciales potencialmente comprometidas en brecha verifications.io 2019 (P2).
-- Establecer política de publicación de información corporativa y revisión trimestral de OSINT (P2).
+<!-- AYUDA (BORRAR): Acciones concretas, medibles y alineadas con los hallazgos. -->
+- [Acción 1]
+- [Acción 2]
+- [Acción 3]
 
 ## 2. Alcance, supuestos y reglas de compromiso
+
 <!-- AYUDA (BORRAR): Dejad claro QUÉ se ha hecho y QUÉ no (para demostrar OSINT pasivo). Indicad supuestos y límites. -->
 
 **Alcance.** Solo OSINT pasivo sobre la entidad (y su huella pública asociada). No se incluye investigación individual (apartado b).
 
 **Fuentes permitidas (ejemplos).** Motores de búsqueda, hemeroteca, registros públicos, perfiles públicos en RRSS, repositorios públicos, documentos públicos, Wayback/archivos, bases de datos de brechas (consulta pasiva).
+
 <!-- AYUDA (BORRAR): Listad las fuentes reales que usasteis (5-10), no un listado infinito. -->
 
 **Regla crítica.** Prohibida cualquier acción activa: escaneos, enumeración directa de servicios, pruebas de login, interacción con formularios, generación de tráfico hacia los sistemas objetivo.
+
 <!-- AYUDA (BORRAR): Si una herramienta pudiera considerarse “activa”, explicad cómo la usasteis de forma pasiva (solo consultas a datos ya recopilados por terceros). -->
 
 **Minimización y privacidad.**
+
 <!-- AYUDA (BORRAR): Explicad cómo reducís datos personales (enmascarado parcial, iniciales, no incluir PII innecesaria). -->
+
 - Evitar incluir datos personales innecesarios.
 - Si aparecen datos personales de terceros (p. ej., correos de empleados), aplicar reducción: mostrar solo lo imprescindible o enmascarar parcialmente cuando no aporte valor al riesgo.
 
 ## 3. Metodología (ciclo OSINT)
+
 <!-- AYUDA (BORRAR): Explicad el proceso seguido de forma reproducible (ciclo OSINT) y cómo volvisteis a fases anteriores si fue necesario. -->
 
 Esta sección describe el proceso seguido según el ciclo OSINT: planificación, fuentes, adquisición, procesamiento, análisis y difusión.
 
 ### 3.1 Planificación y dirección
+
 <!-- AYUDA (BORRAR): Objetivos, preguntas guía y criterios de priorización. Esto demuestra teoría + método. -->
 
 - Preguntas guía (ejemplos):
@@ -65,7 +71,7 @@ Esta sección describe el proceso seguido según el ciclo OSINT: planificación,
   - ¿Existen documentos públicos con metadatos reveladores?
   - ¿Hay menciones de tecnologías, proveedores, sedes, organigrama o personal?
   - ¿La entidad aparece asociada a brechas pasadas o leaks públicos?
-<!-- AYUDA (BORRAR): Ajustad estas preguntas a lo que realmente investigasteis. -->
+  <!-- AYUDA (BORRAR): Ajustad estas preguntas a lo que realmente investigasteis. -->
 
 - Criterios de priorización:
   - **Facilidad de ingeniería social**: Información de contacto directo o patrones deducibles de credenciales.
@@ -80,13 +86,15 @@ Esta sección describe el proceso seguido según el ciclo OSINT: planificación,
 
 
 ### 3.2 Identificación de fuentes
+
 <!-- AYUDA (BORRAR): Fuentes por categoría. Mejor pocas y justificadas. Indicad cómo se mantiene el enfoque pasivo. -->
 
 Tabla de fuentes (añadir/quitar según aplique):
+
 <!-- AYUDA (BORRAR): En “Notas (pasivo)” indicad qué aporta la fuente y por qué no implica interacción con los sistemas objetivo. -->
 
 | Categoría   | Fuente/Herramienta                  | Qué se busca                | Notas (pasivo)              |
-|-------------|-------------------------------------|-----------------------------|-----------------------------|
+| ----------- | ----------------------------------- | --------------------------- | --------------------------- |
 | Buscadores  | Google / Bing / DuckDuckGo          | menciones, PDFs, indexación | dorks sin acceder a paneles |
 | Archivo web | Wayback Machine                     | versiones antiguas          | solo lectura                |
 | Dominios    | WHOIS/RDAP (consulta)               | datos de registro           | solo consulta pública       |
@@ -96,6 +104,7 @@ Tabla de fuentes (añadir/quitar según aplique):
 | Metadatos   | exiftool/FOCA (sobre docs públicos) | autores, rutas, software    | sobre ficheros públicos     |
 
 ### 3.3 Adquisición (recopilación)
+
 <!-- AYUDA (BORRAR): Consultas representativas (no todas). Añadid palabras clave, variantes del nombre, ubicaciones, etc. -->
 
 - Consultas realizadas (resumen):
@@ -111,9 +120,10 @@ Tabla de fuentes (añadir/quitar según aplique):
   - Guardar capturas o PDFs en `evidencias/` con nombres: `YYYY-MM-DD_fuente_tema.ext`
   - Registrar URL (y, cuando sea útil, captura) y fecha de acceso en cada hallazgo.
   - Toda evidencia mencionada en el informe debe estar enlazada (URL y/o ruta relativa a `evidencias/`).
-<!-- AYUDA (BORRAR): Si una URL cambia o desaparece, la captura/PDF en `evidencias/` es la prueba de trazabilidad. -->
+  <!-- AYUDA (BORRAR): Si una URL cambia o desaparece, la captura/PDF en `evidencias/` es la prueba de trazabilidad. -->
 
 ### 3.4 Procesamiento y organización
+
 <!-- AYUDA (BORRAR): Cómo ordenasteis datos: deduplicación, clasificación por categorías y relevancia, y control de calidad. -->
 
 - Normalización:
@@ -127,6 +137,7 @@ Tabla de fuentes (añadir/quitar según aplique):
   - **Corroboración cruzada**: Información triangulada (p. ej., empleado en sitio web + LinkedIn + patrón correo = riesgo alto).
 
 ### 3.5 Análisis e interpretación
+
 <!-- AYUDA (BORRAR): Transformad datos en “inteligencia”: vectores habilitados, probabilidad/impacto, y mitigación recomendada. -->
 
 - Correlaciones identificadas:
@@ -140,29 +151,33 @@ Tabla de fuentes (añadir/quitar según aplique):
   - Alto: facilita acceso/engaño de alta probabilidad o alto impacto.
   - Medio: aporta información útil, pero requiere pasos adicionales.
   - Bajo: información marginal o muy genérica.
-<!-- AYUDA (BORRAR): Justificad el riesgo con una frase (“Alto porque permite suplantación del canal X”, etc.). -->
+  <!-- AYUDA (BORRAR): Justificad el riesgo con una frase (“Alto porque permite suplantación del canal X”, etc.). -->
 
 ### 3.6 Difusión
+
 <!-- AYUDA (BORRAR): Explicad a quién va dirigido el informe y cómo se usará (priorizar mitigaciones y concienciación). -->
 
 - Este informe resume hallazgos, evidencia y recomendaciones accionables.
 - Presentación clara para audiencias técnicas y no técnicas.
 
 ## 4. Herramientas utilizadas
+
 <!-- AYUDA (BORRAR): Incluid solo herramientas realmente usadas y una evidencia por cada una (URL o fichero en `evidencias/`). -->
 
 | Herramienta   | Tipo                          | Uso concreto | Salida/evidencia               |
-|---------------|-------------------------------|--------------|--------------------------------|
+| ------------- | ----------------------------- | ------------ | ------------------------------ |
 | [Herramienta] | [Buscador/DNS/Metadatos/etc.] | [Para qué]   | [archivo en evidencias/ o URL] |
 
 ## 5. Resultados (hallazgos)
+
 <!-- AYUDA (BORRAR): Parte principal. Cada hallazgo debe ser verificable y tener evidencia enlazada (URL y/o `evidencias/...`). -->
 
 Formato recomendado por hallazgo:
+
 <!-- AYUDA (BORRAR): Copiad esta tabla por cada hallazgo importante (o adaptadla si preferís una tabla global). -->
 
 | Campo           | Contenido                                                                  |
-|-----------------|----------------------------------------------------------------------------|
+| --------------- | -------------------------------------------------------------------------- |
 | ID              | A-01                                                                       |
 | Categoría       | Contacto / Identidad / Dominio-DNS / Documentos-Metadatos / RRSS / Brechas |
 | Descripción     | [Qué se encontró, claro y verificable]                                     |
@@ -185,16 +200,10 @@ Formato recomendado por hallazgo:
 - **Riesgo**: Medio (facilitación de ingeniería social)
 
 ### 5.2 Datos de contacto (emails, teléfonos, estructuras)
+<!-- AYUDA (BORRAR): Patrones de correo (si se infieren), teléfonos publicados, extensiones, formularios de contacto y riesgos asociados. -->
 
-**A-03: Patrón de correos corporativos**
-- **Descripción**: Correos en formato `nombre.apellido@jmpascual.com` deducible a partir de datos públicos.
-- **Evidencia**: [correosynicknames.md](../evidencias/correosynicknames.md)
-- **Riesgo**: Alto (CRÍTICO para spear phishing sin enumeración)
-
-**A-04: Teléfonos corporativos públicos**
-- **Descripción**: Números: 956017200, 956017444, 956017377 expuestos en sitio web y directorios.
-- **Evidencia**: [resumen-ejecutivoPascualSA.md](../evidencias/resumen-ejecutivoPascualSA.md)
-- **Riesgo**: Medio (vishing, social engineering)
+- A-03
+- A-04
 
 ### 5.3 Dominios, subdominios y huella DNS (pasivo)
 
@@ -229,6 +238,7 @@ Formato recomendado por hallazgo:
 - **Riesgo**: Alto (CRÍTICO - afecta a múltiples empleados actuales/pasados)
 
 ## 6. Resumen de riesgos
+
 <!-- AYUDA (BORRAR): Tabla para priorizar: qué arreglar primero (P1), después (P2) y al final (P3). -->
 
 | ID   | Hallazgo (resumen) | Riesgo | Prioridad | Acción recomendada |
@@ -280,6 +290,7 @@ Formato recomendado por hallazgo:
 - **Auditoría anual de superficie de ataque**: Repetir este estudio; medir reducción de exposición.
 
 ## 9. Anexos
+
 <!-- AYUDA (BORRAR): Trazabilidad. Esta sección facilita la corrección: fuentes, consultas y evidencias enlazadas. -->
 
 ### 9.1 Registro de fuentes
