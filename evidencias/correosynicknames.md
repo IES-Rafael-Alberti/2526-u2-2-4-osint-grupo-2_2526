@@ -15,9 +15,9 @@
 
 | Nombre | Email posible | Nickname posible |
 |--------|---------------|------------------|
-| Ignacio Ortiz Acero | ignacio.ortiz@hospitalespascual.com | ignacio.ortiz |
-| Agustín García Mancilla | agustin.garcia@hospitalespascual.com | agustin.garcia |
-| Eva Reyes Pérez | eva.reyes@hospitalespascual.com | eva.reyes |
-| Eugenia Alonso Alejandro | eugenia.alonso@hospitalespascual.com | eugenia.alonso |
-| Erick Esteban Esteban Pedreros | erick.esteban@hospitalespascual.com | erick.esteban |
-| Viviana González Gómez | viviana.gonzalez@hospitalespascual.com | viviana.gonzalez |
+| Ignacio Ortiz Acero | ignacio.ortiz@jmpascual.com | ignacio.ortiz |
+| Agustín García Mancilla | agustin.garcia@jmpascual.com | agustin.garcia |
+| Eva Reyes Pérez | eva.reyes@jmpascual.com | eva.reyes |
+| Eugenia Alonso Alejandro | eugenia.alonso@jmpascual.com | eugenia.alonso |
+| Erick Esteban Esteban Pedreros | erick.esteban@jmpascual.com | erick.esteban |
+| Viviana González Gómez | viviana.gonzalez@jmpascual.com | viviana.gonzalez |
