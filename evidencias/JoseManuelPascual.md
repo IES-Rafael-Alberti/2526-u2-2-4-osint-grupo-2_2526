@@ -31,5 +31,9 @@
 
 - Participación en proyectos clínicos y artículos científicos relacionados con Traumatología.
 
+Posible correo interno:
+josemanuel.pascual@hospitalespascual.com
+(Posibles coincidencias con los otros correo de los otros medicos, es comun en las empresas tener correo interno usando el nombre de dominio.)
+
 ![alt text](../img/trabajadores/jpsemnauelpascual.png)
 ---
