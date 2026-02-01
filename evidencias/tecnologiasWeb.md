@@ -14,8 +14,15 @@ El sitio incorpora plugins de WordPress personalizados o específicos para funci
 - Directorio de profesionales médicos.
 - Formularios de contacto y suscripción.
 
+Tales como:
+
+- [Simple Job Board](https://wordpress.org/plugins/simple-job-board/)
+- [WordPress Multilingual ](https://wpml.org/es/)
+- [Elementor](https://elementor.com/)
+
+
 > **Nota:** La propia empresa que realizó el desarrollo menciona la integración de estos complementos adaptados al proyecto.
-https://www.ptg.digital/en/proyectos-portfolio/hospitales-pascual-en/?utm_source=chatgpt.com
+https://www.ptg.digital/en/proyectos-portfolio/hospitales-pascual-en
 
 ## Aspectos UX/UI
 
